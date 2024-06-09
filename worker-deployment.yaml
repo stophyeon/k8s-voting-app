@@ -4,6 +4,7 @@ metadata:
   labels:
     app: worker
   name: worker
+  
 spec:
   replicas: 1
   selector:
